@@ -1,4 +1,4 @@
-package com.example.myfinal;
+package com.example.ecommerce;
 
 import org.junit.Test;
 
